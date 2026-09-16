@@ -174,3 +174,8 @@ print(
 ```
 
 *You have reached the end of this programming assignment. Thank you for reading!*
+
+**Jupyter Notebook File Link**: https://github.com/benisseyonikadevera-dotcom/ECE-2112-BENISSE-DE-VERA-2ECEB-PA4/blob/main/DE_VERA_BENISSE_2ECEB_PA4.ipynb
+
+README File Version History: 
+- September 16, 2026: First draft uploaded.
